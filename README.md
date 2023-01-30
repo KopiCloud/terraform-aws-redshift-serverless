@@ -1,6 +1,8 @@
 # Deploying an Amazon Redshift Serverless in AWS with Terraform
 [![Terraform](https://img.shields.io/badge/terraform-v1.3+-blue.svg)](https://www.terraform.io/downloads.html)
 
+Blog --> https://gmusumeci.medium.com/how-to-deploy-an-amazon-redshift-serverless-in-aws-using-terraform-1cf67835d3b4
+
 ## Code creates:
 
 * AWS Credentials
